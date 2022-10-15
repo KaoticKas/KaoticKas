@@ -1,4 +1,4 @@
-## <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a half graduated Computer Science student from University of Lincoln🎓</div>  
+# <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a half graduated Computer Science student from University of Lincoln🎓</div>  
   
 
 ##### I'm a half-Graduate(minimum 2:1) and an aspiring junior Software/Game Engineer that is currently working as a IT 1st Line Support. I have experience in a University HE Enterprise as well some experience in Warehousing and Logistics.  
