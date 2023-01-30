@@ -7,7 +7,7 @@
 ## **My main interests are;**  
   
 
-- Virtual and Augmented Reality🤳  
+- Robotics  
   
 - Machine Learning🤖  
   
