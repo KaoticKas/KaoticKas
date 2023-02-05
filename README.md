@@ -24,7 +24,7 @@
   
 
 - (Dissertation)[NameNotDecided] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with info about the fish.🎣
-[Progress: Design Phase]🎨📏
+[Progress: Implemetation]🎨📏
 
 - (Personal)I am also working on developing my skills in fullstack development in HTML5,CSS and Javascript , by slowly developing my portfolio website which will be available soon.
 
