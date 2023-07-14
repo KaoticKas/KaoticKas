@@ -30,8 +30,8 @@
 <br/>
 
 <br/>  
-## **Projects im proud ofl**  
-  
+
+## **Projects im proud of:**  
 
 - [OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with what fish they caught.🎣
 
