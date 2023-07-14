@@ -1,7 +1,7 @@
-# <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a half graduated Computer Science student from University of Lincoln🎓</div>  
+# <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>  
   
 
-##### I'm a September 2023 Graduate (minimum 2:1) and an aspiring junior Software/Game Engineer that is currently working as a IT 1st Line Support. I have experience in a University HE Enterprise as well some in Warehousing and Logistics. I'm currently looking to change my Career from IT Support to Software Developer/ Engineer.
+##### I'm a September 2023 Graduate and an aspiring junior Software/Game Engineer that has loads of expererience as a IT 1st and 2nd Line Support in both a University HE Enterprise as well as  Warehousing and Logistics enviroments. I'm currently looking to gain industrial experience as a Software Developer/ Engineer.
   
 
 ## **My main interests are;**  
@@ -22,13 +22,20 @@
 ## **Current Projects I'm working on:**  
   
 
-- (Dissertation)[OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with info about the fish.🎣
-[Progress: Dissertation writing]🎨📏
-
+- 14/07/23 Im currently working on a game Jam so that project will be up soon
+  
 - (Personal)I am also working on developing my skills in fullstack development in HTML5,CSS and Javascript , by slowly developing my portfolio website which will be available soon.
 
 - Other Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
+<br/>
+
 <br/>  
+## **Projects im proud ofl**  
+  
+
+- [OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with what fish they caught.🎣
+
+<br/> 
 
 <br/>
 
