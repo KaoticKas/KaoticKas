@@ -1,7 +1,7 @@
 # <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>  
   
 
-##### I'm a September 2023 Graduate and an aspiring junior Software/Game Engineer that has loads of expererience as a IT 1st and 2nd Line Support in both a University HE Enterprise as well as  Warehousing and Logistics enviroments. I'm currently looking to gain industrial experience as a Software Developer/ Engineer.
+##### I'm an aspiring junior Software/Game Engineer that has loads of expererience as a IT 1st and 2nd Line Support in both a University HE Enterprise as well as  Warehousing and Logistics enviroments. Also forgot to mention my slight tea addiction.
   
 
 ## **My main interests are;**  
@@ -10,7 +10,7 @@
   
 - Big Data📊  
 
-- Games
+- Game programming
   
 
 ##### Even though these are my main interests, I am more than happy to dive into different subjects and learn about them📚  
@@ -20,13 +20,11 @@
 <br/>  
 
 ## **Current Projects I'm working on:**  
-  
 
-- 14/07/23 Im currently working on a game Jam so that project will be up soon
-  
-- (Personal)I am also working on developing my skills in fullstack development in HTML5,CSS and Javascript , by slowly developing my portfolio website which will be available soon.
-
-- Other Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
+- Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
+- [Design Phase] Flexible Stock Management System
+- [Design Phase] Personal Website
+- [Mini Projects]
 <br/>
 
 <br/>  
