@@ -1,10 +1,9 @@
-# <div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>  
+# **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
+  
+I'm an aspiring junior Software/Game Engineer that has loads of expererience as a IT 1st and 2nd Line Support in both a University HE Enterprise as well as  Warehousing and Logistics enviroments. Also forgot to mention my slight tea addiction.
   
 
-#### I'm an aspiring junior Software/Game Engineer that has loads of expererience as a IT 1st and 2nd Line Support in both a University HE Enterprise as well as  Warehousing and Logistics enviroments. Also forgot to mention my slight tea addiction.
-  
-
-## **My main interests are;**  
+# **My main interests are;**  
   
 - Machine Learning🤖  
   
@@ -13,13 +12,13 @@
 - Game programming
   
 
-#### Even though these are my main interests, I am more than happy to dive into different subjects and learn about them📚  
+Even though these are my main interests, I am more than happy to dive into different subjects and learn about them📚  
   
 
 
 <br/>  
 
-## **Current Projects I'm working on:**  
+# **Current Projects I'm working on:**  
 
 - Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
 - [Design Phase] Flexible Stock Management System
@@ -29,7 +28,7 @@
 
 <br/>  
 
-## **Projects im proud of:**  
+# **Projects im proud of:**  
 
 - [OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with what fish they caught.🎣
 
@@ -37,7 +36,7 @@
 
 <br/>
 
-## Location
+# Location
 
 -🗺️I'm based in Doncaster, South Yorkshire 
 
@@ -47,7 +46,7 @@
 
 ----
 
-<h3 align="left">Socials</h3>
+# <h3 align="left">Socials</h3>
 <p align="left">
 <a href="https://twitter.com/kaotickac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaotickac" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kacper hajda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kacper hajda" height="30" width="40" /></a>
