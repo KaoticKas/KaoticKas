@@ -20,7 +20,7 @@ Even though these are my main interests, I am more than happy to dive into diffe
 
 # **Current Projects I'm working on:**  
 
-- Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
+- bugfixing and improving my existing projects on my github as well as providing documentation for them.
 - [Coding in progress] DnD Random Character Generator using ASP.NET MVC with potential to split into backend and frontend react.
 <br/>
 
