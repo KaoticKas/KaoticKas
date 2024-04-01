@@ -21,16 +21,14 @@ Even though these are my main interests, I am more than happy to dive into diffe
 # **Current Projects I'm working on:**  
 
 - Projects involve; bugfixing and improving my existing projects on my github as well as providing documentation for them.
-- [Design Phase] Flexible Stock Management System
-- [Design Phase] Personal Website
-- [Mini Projects]
+- [Coding in progress] DnD Random Character Generator using ASP.NET MVC with potential to split into backend and frontend react.
 <br/>
 
 <br/>  
 
 # **Projects im proud of:**  
 
-- [OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with what fish they caught.🎣
+- [OneFish] Fishing App that will allow the user to take a picture of a caught fish and it will be able to classify it using Machine Learning and Image Processing and provide the user with what fish they caught built on a Flask Framework and boostrap to create the UI.🎣
 
 <br/> 
 
