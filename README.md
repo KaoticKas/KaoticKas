@@ -38,7 +38,7 @@ Even though these are my main interests, I am more than happy to dive into diffe
 
 -🗺️I'm based in Doncaster, South Yorkshire 
 
--💌My contact email is: kacperhajda16@gmail.com
+-💌My contact email is: kacper.hajda42@gmail.com
 
 <br />
 
