@@ -1,6 +1,6 @@
 # **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
   
-I'm an aspiring junior Software/Game Engineer that experience as a IT 1st and 2nd Line Support in both a University HE Enterprise and Warehousing and Logistics enviroments. I am currently working as a Technical Support and Innovations Officer for the local Council. Also forgot to mention my slight tea addiction.
+I'm an aspiring junior Software Engineer that experience as a IT 1st and 2nd Line Support in both a University HE Enterprise and Warehousing and Logistics enviroments. I am currently working as a Technical Support and Innovations Officer for the local Council. Also forgot to mention my slight tea addiction.
   
 
 # **My main interests are;**  
