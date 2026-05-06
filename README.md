@@ -1,13 +1,13 @@
-# **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
+# **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm an aspiring Software Engineer with experience in developing solutions for local authorities, also a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
   
-I'm an aspiring Developer that experience as a IT 1st and 2nd Line Support in both a University HE Enterprise and Warehousing and Logistics enviroments and hopes to learn as much as possible. I am currently working as a Technical Developer. Also forgot to mention my slight tea addiction.
+I’m an aspiring Software Engineer who’s picked up experience in Local Government, Higher Education, and even Warehousing along the way. I’ve worked with .NET building practical solutions, Netcall Lowcode platform as well as various RPA systems, and I’m currently a Digital and Automation Analyst at North Yorkshire Council aiding digital transformation. I enjoy solving problems, improving processes, and yes, running mostly on tea.
 
 <br/>  
 
 # **Current Projects I'm working on:**  
 
 - bugfixing and improving my existing projects on my github as well as providing documentation for them.
-- [Coding in progress] DnD Random Character Generator using ASP.NET MVC with potential to split into backend and frontend react.
+- [Coding in progress] DnD Random Character Generator using ASP.NET MVC with potential to split into backend and frontend react with a RESTful api inbetween.
 <br/>
 
 <br/>  
