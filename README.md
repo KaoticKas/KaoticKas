@@ -1,4 +1,4 @@
-# **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm an aspiring Software Engineer with experience in developing solutions for local authorities, also a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
+# **<div align="center">👋Howdy! welcome to my profile, I'm Kacper however I go by Kas, and I'm an aspiring Software Developer with experience in developing solutions for local authorities, also a 1st Class Computer Science Graduate from University of Lincoln🎓</div>**
   
 I’m an aspiring Software Engineer who’s picked up experience in Local Government, Higher Education, and even Warehousing along the way. I’ve worked with .NET building practical solutions, Netcall Lowcode platform as well as various RPA systems, and I’m currently a Digital and Automation Analyst at North Yorkshire Council aiding digital transformation. I enjoy solving problems, improving processes, and yes, running mostly on tea.
 
